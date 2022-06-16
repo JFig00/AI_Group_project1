@@ -1,0 +1,15 @@
+def make_move(self,pos):
+	players[current player].pos= possible_moves()
+
+def lose(self):
+	if current_player==W:
+		return if any B in W territory
+	else:
+		return if any W in B territory
+
+def is_over(self):
+	return true if lose() returns true or if possible moves==none
+
+def soring(self):
+	return -100 if lose() returns true and 0 if false
+
