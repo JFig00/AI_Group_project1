@@ -1,3 +1,9 @@
+'''
+Mayte Ramirez-Calderon
+Johnny Figueroa
+Ethan Curtis
+'''
+
 # [[file:checker.org::*questions][questions:1]]
 # !/usr/bin/env python3
 from easyAI import TwoPlayerGame, Human_Player, AI_Player, Negamax
